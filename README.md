@@ -1,6 +1,6 @@
 ### Anish Raj
 
-Building production AI systems and open-source tools from Jaipur.
+C++ + Python tooling engineer. Built arnio (PyPI, 2k+ dl). RAG systems, open-source languages. GSSoC'26. Jaipur.
 
 - **arnio** — C++ powered CSV engine · `pip install arnio`
 - **Hybrid Search RAG Engine** — FAISS + BM25 + GPT-4o · 95% Hit Rate@5
