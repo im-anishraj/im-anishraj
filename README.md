@@ -23,6 +23,18 @@ I write performance-critical software and ship it to PyPI. My work spans native 
 
 <br>
 
+```text
+~ $ whoami
+anish-raj
+
+~ $ cat current_focus.log
+> Optimizing C++ memory arenas for zero-copy Python data bridges
+> Building hybrid dense/sparse search systems without the vector-DB bloat
+> Writing lexers and parsers from scratch for custom languages
+```
+
+<br>
+
 ---
 
 <br>
