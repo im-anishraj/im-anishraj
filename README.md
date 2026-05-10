@@ -128,12 +128,18 @@ Based in Jaipur, India · 3rd Year CS Undergrad · Building in public since 2024
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-anishraj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=im-anishraj&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&sideNums=c9d1d9" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-anishraj&theme=github_dark" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-anishraj&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-anishraj&theme=github_dark" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=im-anishraj&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&sideNums=c9d1d9" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im-anishraj&theme=github_dark&utcOffset=5.5" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im-anishraj&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im-anishraj&theme=github_dark" width="32%" />
 </p>
 
 <br>
