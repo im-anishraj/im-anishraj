@@ -137,6 +137,7 @@ anish-raj
       <p>
         <img src="https://img.shields.io/badge/CLI-Rich_UI-purple?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Offline-First-green?style=for-the-badge" />
+        <img src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge&color=blue&label=PyPI%20Downloads" />
       </p>
     </td>
   </tr>
