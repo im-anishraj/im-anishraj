@@ -135,7 +135,6 @@ anish-raj
         Terminal-based tool for structured DSA practice. Metadata-first architecture with SQLite persistence, Rich-powered UI, and curated problem sets — no internet required.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/CLI-Rich_UI-purple?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Offline-First-green?style=for-the-badge" />
         <img src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge&color=blue&label=PyPI%20Downloads" />
       </p>
