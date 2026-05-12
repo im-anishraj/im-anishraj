@@ -136,7 +136,7 @@ anish-raj
       </p>
       <p>
         <img src="https://img.shields.io/badge/Offline-First-green?style=for-the-badge" />
-        <img src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge&color=blue&label=PyPI%20Downloads" />
+        <img src="https://img.shields.io/pepy/dt/dooma?style=for-the-badge&color=blue&label=PyPI%20Downloads&cacheSeconds=3600" />
       </p>
     </td>
   </tr>
