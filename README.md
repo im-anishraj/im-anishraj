@@ -100,7 +100,7 @@ anish-raj
         High-performance data preprocessing library with a native C++ backend exposed through pybind11. Designed to supercharge pandas workflows — handles type inference, null detection, and column transforms at near-native speed.
       </p>
       <p>
-        <img src="https://img.shields.io/pepy/dt/arnio?style=for-the-badge&color=blue&label=PyPI%20Downloads" />
+        <img src="https://img.shields.io/pepy/dt/arnio?style=for-the-badge&color=blue&label=PyPI%20Downloads&cacheSeconds=3600" />
         <img src="https://img.shields.io/github/stars/im-anishraj/arnio?style=for-the-badge&color=yellow" />
       </p>
     </td>
